@@ -6,7 +6,7 @@
 - #### [Podstawy języka SQL - tworzenie tabel](create)
 - #### [Podstawy języka SQL - wstawianie danych](create_inserts)
 - #### [Podstawy języka SQL - zapytania](queries)
-- #### [SQL - procedury](procedures)
+- #### [SQL - procedury](tree/main/procedures)
 - #### [SQL - funkcje](proc_functions)
 - #### [SQL - transakcje](transactions)
 - #### [SQL - triggery](create)
